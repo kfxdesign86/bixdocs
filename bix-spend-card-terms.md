@@ -1,6 +1,6 @@
 # BIX Spend Card Terms
 
-These Bix.fi  Spend Card Terms (the "Card Terms") are a binding agreement between you ("you" or "your") and the Issuer ("we", "us", or "our") that governs your use of the Bix.fi Spend Cards, including the process for obtaining and managing Bix.fi Spend Cards, access to which is provided to you by Bit1 Ventures S.A ("Bix.fi").
+These Bix.fi  Spend Card Terms (the "Card Terms") are a binding agreement between you ("you" or "your") and the Issuer ("we", "us", or "our") that governs your use of the Bix.fi Spend Cards, including the process for obtaining and managing Bix.fi Spend Cards, access to which is provided to you by Bix ("Bix.fi").
 
 Important Disclosures
 

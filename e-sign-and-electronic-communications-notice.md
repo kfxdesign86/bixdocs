@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This E-Sign & Electronic Communications Notice ("Notice") applies to all communications related to your BIX Card Account and any related products or services provided by Third National ("Issuer," "we," "us," or "our") in connection with BIX (operated by Bit1 Ventures S.A., "BIX" or "Bix.fi").
+This E-Sign & Electronic Communications Notice ("Notice") applies to all communications related to your BIX Card Account and any related products or services provided by Third National ("Issuer," "we," "us," or "our") in connection with BIX (operated by Bix, "BIX" or "Bix.fi").
 
 By applying for, activating, or using a BIX Card, you consent to receive all communications from us electronically. This Notice is incorporated by reference into your BIX Card Cardholder Agreement and/or BIX Spend Card Terms (collectively, "Card Terms").
 
@@ -74,7 +74,7 @@ If you have questions about this Notice, please contact us at:
 
 **Card Services**
 BIX
-c/o Bit1 Ventures S.A.
+Bix
 Dubai, UAE
 
 **Email:** support@bix.fi

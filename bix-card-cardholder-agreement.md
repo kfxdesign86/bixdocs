@@ -286,7 +286,7 @@ We may provide information about you and the Account to consumer credit reportin
 
 We may report information about your account to credit bureaus. Late payments, missed payments, or other defaults on your account may be reflected in your credit report. We may obtain and use credit and income information about you from consumer credit reporting agencies and others as the law allows. 
 
-If you believe we have reported inaccurate information about you to a credit reporting agency, notify us in writing at: Card Services, Bix.fi, Bix.fi c/o Bit1 Ventures S.A Dubai, UAE. In doing so, identify yourself, your Account, the information you believe is inaccurate, and tell us why you believe the information is incorrect. If you have supporting documents or information, such as a copy of a credit report that includes information you believe is inaccurate, send us the supporting documents and information, too.
+If you believe we have reported inaccurate information about you to a credit reporting agency, notify us in writing at: Card Services, Bix.fi, Bix, Dubai, UAE. In doing so, identify yourself, your Account, the information you believe is inaccurate, and tell us why you believe the information is incorrect. If you have supporting documents or information, such as a copy of a credit report that includes information you believe is inaccurate, send us the supporting documents and information, too.
 
 ## Closing or Suspending Your Account
 
@@ -404,7 +404,7 @@ If you think there is an error on your statement, write to us at:
 
 Card Services  
 Bix.fi  
-c/o Bit1 Ventures S.A  
+Bix  
 Dubai, UAE
 
 In your letter, give us the following information:
@@ -451,7 +451,7 @@ If all of the criteria above are met and you are still dissatisfied with the pur
 
 Card Services  
 Bix.fi  
-c/o Bit1 Ventures S.A  
+Bix  
 Dubai, UAE
 
 While we investigate, the same rules apply to the disputed amount as discussed above. After we finish our investigation, we will tell you our decision. At that point, if we think you owe an amount and you do not pay, we may report you as delinquent.

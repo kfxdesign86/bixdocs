@@ -2,7 +2,7 @@
 
 These Terms of Use ("Terms") govern your access to and use of BIX, including our website, mobile applications, crypto-to-fiat features, and any related services (collectively, the "Services").
 
-The Services are operated by Bit1 Ventures S.A. ("Bit1," "BIX," "we," "us," or "our"), a company organized under the laws of El Salvador.
+The Services are operated by Bix ("BIX," "we," "us," or "our").
 
 By creating an account, accessing, or using the Services, you agree to these Terms.
 
@@ -160,4 +160,4 @@ We may provide notices by posting them in the Services, sending them to your ema
 
 **Last Updated:** February 9, 2026.
 
-© Bit1 Ventures S.A.
+© Bix
