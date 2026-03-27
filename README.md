@@ -6,7 +6,7 @@ metaLinks:
 
 # Bix Legal Hub
 
-Welcome to the Bix legal jub. Please review the following documents carefully.
+Welcome to the Bix Legal Hub. Here you'll find our terms of service, privacy disclosures, card agreements, and other legal documents that govern your use of the Bix platform. We encourage you to review them carefully.
 
 * [Terms of Use](terms-of-use.md)
 * [Privacy Policy](privacy-policy.md)
