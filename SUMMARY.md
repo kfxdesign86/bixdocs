@@ -1,7 +1,6 @@
-# BIX Legal
+# Table of contents
 
-Welcome to the BIX legal documentation. Please review the following documents carefully.
-
+* [BIX Legal](README.md)
 * [Terms of Use](terms-of-use.md)
 * [Privacy Policy](privacy-policy.md)
 * [BIX Card Cardholder Agreement](bix-card-cardholder-agreement.md)
