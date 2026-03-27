@@ -1,6 +1,12 @@
-# BIX Legal
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/2AwfWOGBWBxQmyvHedqW/
+---
 
-Welcome to the BIX legal documentation. Please review the following documents carefully.
+# Bix Legal Hub
+
+Welcome to the Bix legal jub. Please review the following documents carefully.
 
 * [Terms of Use](terms-of-use.md)
 * [Privacy Policy](privacy-policy.md)
