@@ -26,6 +26,8 @@ Fees
          - Cross Border Fee: 3%
          
          - Small Payment Fee: 75 Cents per transaction under $35.00 USD
+         
+         - Card Creation: $9.99 USD per virtual card created
 
        Penalty Fees
 
@@ -35,6 +37,8 @@ Fees
 ```
 
 When you apply for a Card Account, activate a Card, or otherwise participate in the Program in any way, you represent that you have read, understand, and agree to these Card Terms.
+
+VIP Membership: The VIP Tier is an optional premium membership available for a recurring fee of $9.99 per month. VIP members receive enhanced benefits, including reduced fees, priority support, and exclusive rewards, as described on the BIX platform. The VIP fee is non-refundable and will be automatically charged to your account on a monthly billing cycle until cancelled.
 
 Terms
 
