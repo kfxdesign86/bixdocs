@@ -1,6 +1,6 @@
-# BIX Spend Card Terms
+# Bix Cardholder Agreement International
 
-These Bix.fi  Spend Card Terms (the "Card Terms") are a binding agreement between you ("you" or "your") and the Issuer ("we", "us", or "our") that governs your use of the Bix.fi Spend Cards, including the process for obtaining and managing Bix.fi Spend Cards, access to which is provided to you by Bix ("Bix.fi").
+These Bix.fi Spend Card Terms (the "Card Terms") are a binding agreement between you ("you" or "your") and the Issuer ("we", "us", or "our") that governs your use of the Bix.fi Spend Cards, including the process for obtaining and managing Bix.fi Spend Cards, access to which is provided to you by Bix ("Bix.fi").
 
 Important Disclosures
 
@@ -8,27 +8,31 @@ Rates, fees, and other important information about your Bix.fi Spend Card ("Bix.
 
 Effective as of March 7, 2026
 
-Interest Rates and Interest Charges  0%
+Interest Rates and Interest Charges 0%
 
-Annual Percentage Rate (APR) for Purchases    0%
+Annual Percentage Rate (APR) for Purchases 0%
 
-Your Bix.fi Spend Card is currently Zero    0 % interest on all purchases. Issuer and Bix.fi reserve the right to implement interest in the future, for new purchases. Bix.fi will disclose any changes to this agreement prior to the introduction of interest and other charges associated with your Bix.fi Card.
+Your Bix.fi Spend Card is currently Zero 0 % interest on all purchases. Issuer and Bix.fi reserve the right to implement interest in the future, for new purchases. Bix.fi will disclose any changes to this agreement prior to the introduction of interest and other charges associated with your Bix.fi Card.
 
 Fees
 
-  Transaction Fee
 
-          Foreign Purchases
 
-             - Foreign Exchange Fee (non USD): 0%
+```
+      Foreign Purchases
 
-             - Cross Border Fee: 0%
+         - Foreign Exchange Fee (non USD): 3%
 
-           Penalty Fees
+         - Cross Border Fee: 3%
+         
+         - Small Payment Fee: 75 Cents per transaction under $35.00 USD
 
-               - Late payment: Up to $40
+       Penalty Fees
 
-               - Returned payment: Up to $29
+           - Late payment: Up to $40
+
+           - Returned payment: Up to $29
+```
 
 When you apply for a Card Account, activate a Card, or otherwise participate in the Program in any way, you represent that you have read, understand, and agree to these Card Terms.
 
@@ -44,7 +48,7 @@ Issuer:
 
 The card program is issued by the Issuer under license from Visa. The information about the cost of the Card described in the above table is accurate as of March 7, 2026. This information may change after that date. To find out what may have changed, call or write the servicer, at support@bix.fi and +1 (787) 500-0199.
 
-Issuer reserves the right to amend these Card Terms or impose additional obligations or restrictions on you at any time with or without notice to you. By continuing to use the Services, you agree to be bound by such amendments or additional obligations or restrictions. The date on the top of this page shows when the Card Terms were last updated. Capitalized terms that are not defined here have the definitions provided in the  User Agreement.
+Issuer reserves the right to amend these Card Terms or impose additional obligations or restrictions on you at any time with or without notice to you. By continuing to use the Services, you agree to be bound by such amendments or additional obligations or restrictions. The date on the top of this page shows when the Card Terms were last updated. Capitalized terms that are not defined here have the definitions provided in the User Agreement.
 
 Bix.fi provides technology services in connection with the Bix.fi Card, and is not a bank, credit union, or money services business and does not itself extend credit, set interest rates, determine repayment terms or hold Collateral. Nothing in these Card Terms shall be construed as creating a lender-borrower relationship between you and Bix.fi.
 
@@ -72,7 +76,7 @@ Defined Terms:
 
 "Periodic Statement" means the periodic statements that reflect activity for all Cards issued to you identifying charges, fees, refunds, or other amounts owed or credited to your Bix.fi Account during the time covered by that statement.
 
-"Supported Blockchains" means the Ethereum Blockchain, Polygon Blockchain, Optimism Blockchain, Arbitrium Blockchain and other blockchain networks which may be added at the sole discretion of Issuer.  We may update this list of Supported Blockchains at any time and at our sole discretion.
+"Supported Blockchains" means the Ethereum Blockchain, Polygon Blockchain, Optimism Blockchain, Arbitrium Blockchain and other blockchain networks which may be added at the sole discretion of Issuer. We may update this list of Supported Blockchains at any time and at our sole discretion.
 
 Agreement:
 
@@ -98,13 +102,13 @@ You attest that you were not solicited for this Card.
 
 2. Issuer Terms
 
-The Issuer is identified on the back of the Bix.fi Card issued to you and is responsible for funding your payments for goods and services you purchase at a merchant through your Bix.fi Card and based on information provided by Bix.fi. Please note that the Issuer may require you to accept additional terms in addition to the agreements you have with Bix.fi, and your use of the  Bix.fi Cards will then also be subject to such additional terms.
+The Issuer is identified on the back of the Bix.fi Card issued to you and is responsible for funding your payments for goods and services you purchase at a merchant through your Bix.fi Card and based on information provided by Bix.fi. Please note that the Issuer may require you to accept additional terms in addition to the agreements you have with Bix.fi, and your use of the Bix.fi Cards will then also be subject to such additional terms.
 
 3. Collateral
 
-This Account is a secured Account.  Either your primary Linked Wallet or any Additional Wallets may provide the collateral that will secure the Charges made by you on any Card (the "Collateral"). The Collateral must be held in a wallet on a Supported Blockchain. By entering into these Card Terms, you are furnishing and granting us a security interest in the Collateral, as well as any additions to, substitutions or renewals of the Collateral.  No portion of the Collateral may be used by you to secure other loans.
+This Account is a secured Account. Either your primary Linked Wallet or any Additional Wallets may provide the collateral that will secure the Charges made by you on any Card (the "Collateral"). The Collateral must be held in a wallet on a Supported Blockchain. By entering into these Card Terms, you are furnishing and granting us a security interest in the Collateral, as well as any additions to, substitutions or renewals of the Collateral. No portion of the Collateral may be used by you to secure other loans.
 
-A "Liquidation Event" will occur a) if you have an outstanding payment obligation to Bix.fi or the Issuer, as applicable, and such payment obligation has not been paid in full by you within one (1) calendar day; OR b) the Market Value of your Collateral drops below the value of the existing charges on your Bix.fi Card(s) and you do not add additional collateral or reduce the value of the existing charges to less than the Market Value of the Collateral by making a payment.  Bix.fi and Issuer may allow for an additional grace period at their discretion.
+A "Liquidation Event" will occur a) if you have an outstanding payment obligation to Bix.fi or the Issuer, as applicable, and such payment obligation has not been paid in full by you within one (1) calendar day; OR b) the Market Value of your Collateral drops below the value of the existing charges on your Bix.fi Card(s) and you do not add additional collateral or reduce the value of the existing charges to less than the Market Value of the Collateral by making a payment. Bix.fi and Issuer may allow for an additional grace period at their discretion.
 
 "Market Value" of the Collateral will be determined by Bix.fi and/or Issuer using the net redemption value provided by a centralized stablecoin issuer and/or the real time price posted on a reputable and recognized exchange or price aggregator, or by reference to a price oracle, subject to Bix.fi or Issuers discretion. You agree to pay all transaction costs or "gas" fees relating to the any Liquidation transaction and that all such costs or fees will be paid from your Collateral and will not be credited to your Account. You agree that the market value of your collateral is determined solely by Issuer through the above methods. You further agree that the Market Value is determined at the time of a Liquidation Event and any change in or fluctuation in value of the Collateral before or after a Liquidation Event will have no bearing on obligations owed to Bix.fi and/or Issuer.
 
@@ -120,7 +124,7 @@ You waive any right to require us to: (a) proceed against any other person; (b) 
 
 4. Spending Limits
 
-Your spending limit is generally set by Bix.fi pursuant to the terms of the Bix.fi Terms and the amount of Collateral. Issuer may additionally set spending limits on each Bix.fi Card or an aggregate spending limit across all  Bix.fi Cards, at its sole discretion. Bix.fi Account Spending limits are dynamic and may be modified at any time with or without notice to you, including temporary increases or decreases or reducing spending limits to $0. Any authorized Charge or fee on a Bix.fi Card may reduce your spending limit by a corresponding amount.
+Your spending limit is generally set by Bix.fi pursuant to the terms of the Bix.fi Terms and the amount of Collateral. Issuer may additionally set spending limits on each Bix.fi Card or an aggregate spending limit across all Bix.fi Cards, at its sole discretion. Bix.fi Account Spending limits are dynamic and may be modified at any time with or without notice to you, including temporary increases or decreases or reducing spending limits to $0. Any authorized Charge or fee on a Bix.fi Card may reduce your spending limit by a corresponding amount.
 
 When you use your Bix.fi Card to initiate a transaction at certain merchants where the amount of the final transaction is unknown at the time of authorization, Issuer may assess a value to such a Charge for an amount higher or lower than the final Charges. This initial "hold" Charge will reduce your spending limit until the final Charge is determined.
 
@@ -140,7 +144,7 @@ We reserve the right to deny any purchase for any reason, such as account defaul
 
 You acknowledge and agree that you have read and understood the https://bix-fi.gitbook.io/bix.fi-docs/prohibited-activities-list and that you will not engage in any such activities when using the Services or the Bix.fi Card.
 
-You acknowledge and agree that you will not use the Bix.fi  Card (1) for any expense which is not an expense incurred by you; (2) for any purpose prohibited by these Card Terms; or (3) for, with, or for the benefit of any individual or entity who is blocked or sanctioned by the United States, including those identified by the United States Department of Treasury's Office of Foreign Assets Control (OFAC).
+You acknowledge and agree that you will not use the Bix.fi Card (1) for any expense which is not an expense incurred by you; (2) for any purpose prohibited by these Card Terms; or (3) for, with, or for the benefit of any individual or entity who is blocked or sanctioned by the United States, including those identified by the United States Department of Treasury's Office of Foreign Assets Control (OFAC).
 
 You will use all reasonable means to protect your Bix.fi Cards and log-in credentials to the Bix.fi Account from unauthorized use. You will not allow any other person or third party to use the Services or the Bix.fi Card on your behalf. You will immediately notify us where you know or suspect that access to your Bix.fi Account has been compromised or your Bix.fi Card has been lost, stolen, or compromised in any way.
 
@@ -170,9 +174,9 @@ The Fees applicable to your Account are described above. You are responsible for
 
 Returned Payment fees become payable by you each time a payment on your Account is returned or reversed for any reason or we must return any check, instrument, or transaction you send us because it is incomplete or faulty, we will charge you a returned payment fee of $1.00. However, we will not charge a returned payment fee if we are charging a late fee with respect to the same minimum payment due and will never charge a returned payment fee exceeding the minimum payment due that was due immediately prior to the date on which the payment was returned to us.
 
-Foreign Currency Transactions.  If you make a transaction using your Account in a foreign currency (including, for example, online purchases from a merchant located outside of the U.S.), the credit card association will convert any transaction in foreign currency into U.S. dollars using an exchange rate for the applicable central processing date that is (1) selected by the association from the range of rates available in wholesale currency markets, which rate may vary from the rate the association receives, or (2) the government mandated rate. The conversion rate you get may differ from the rate on the transaction date or the posting date, and from the rate that the credit card association gets. A merchant or other third party may convert a transaction into U.S. dollars or another currency, using a rate they select, before sending it to the credit card association.
+Foreign Currency Transactions. If you make a transaction using your Account in a foreign currency (including, for example, online purchases from a merchant located outside of the U.S.), the credit card association will convert any transaction in foreign currency into U.S. dollars using an exchange rate for the applicable central processing date that is (1) selected by the association from the range of rates available in wholesale currency markets, which rate may vary from the rate the association receives, or (2) the government mandated rate. The conversion rate you get may differ from the rate on the transaction date or the posting date, and from the rate that the credit card association gets. A merchant or other third party may convert a transaction into U.S. dollars or another currency, using a rate they select, before sending it to the credit card association.
 
-Additional Services.  We may, from time to time, make additional services available to you directly or through affiliated or non-affiliated third parties.  Without limitation, such services may include providing you with virtual accounts in order to enable you to use your Account or otherwise engage in various financial transactions that we do not directly provide.  Each such service is subject to its own terms and conditions, and we shall not be responsible to you for any aspect of those services.  We may permit you to charge any applicable fees for such services to your Account.  You acknowledge and agree that we may receive compensation or otherwise benefit as a result of making such services available to you.
+Additional Services. We may, from time to time, make additional services available to you directly or through affiliated or non-affiliated third parties. Without limitation, such services may include providing you with virtual accounts in order to enable you to use your Account or otherwise engage in various financial transactions that we do not directly provide. Each such service is subject to its own terms and conditions, and we shall not be responsible to you for any aspect of those services. We may permit you to charge any applicable fees for such services to your Account. You acknowledge and agree that we may receive compensation or otherwise benefit as a result of making such services available to you.
 
 8. Managing Your Bix.fi Cards
 
@@ -184,13 +188,13 @@ You are responsible for securing Bix.fi Cards, account numbers, and Bix.fi Card 
 
 8.2 Permitted and Unauthorized Use
 
-You agree to establish and maintain controls designed to ensure that the Bix.fi Cards are only used by you and your permitted authorized users for bona fide  purposes and in compliance with these Card Terms, any Issuer terms, and applicable law. You are responsible for Charges and transactions made by any person given access to Bix.fi Cards even if they are not the person associated with or named on the Bix.fi Card.
+You agree to establish and maintain controls designed to ensure that the Bix.fi Cards are only used by you and your permitted authorized users for bona fide purposes and in compliance with these Card Terms, any Issuer terms, and applicable law. You are responsible for Charges and transactions made by any person given access to Bix.fi Cards even if they are not the person associated with or named on the Bix.fi Card.
 
 Bix.fi, Issuer, Card Networks, or other intermediary third-party service providers (including merchant acquirers) may deny or reverse Charges for any reason. Issuer is not responsible for any losses, damages, or harm caused by any Charges that are denied or reversed.
 
 8.3 Lost or Stolen Cards.
 
-If your Card is lost or stolen or if you think someone may be using your Card or Account without your permission, you must notify us promptly by emailing us at support@bix.fi or calling us at +1 (787) 500-0199. You will not be liable for any unauthorized use that occurs after you notify us.  You may, however, be liable for unauthorized use that occurs before receipt of your notice by us. You have an obligation to assist us in our investigation if your Bix.fi Card is lost or stolen or you believe someone is using your Bix.fi Card or your Bix.fi Account without your permission.
+If your Card is lost or stolen or if you think someone may be using your Card or Account without your permission, you must notify us promptly by emailing us at support@bix.fi or calling us at +1 (787) 500-0199. You will not be liable for any unauthorized use that occurs after you notify us. You may, however, be liable for unauthorized use that occurs before receipt of your notice by us. You have an obligation to assist us in our investigation if your Bix.fi Card is lost or stolen or you believe someone is using your Bix.fi Card or your Bix.fi Account without your permission.
 
 9. Chargebacks
 
@@ -204,7 +208,7 @@ Charges relating to disputed Charges and Chargebacks that are pending resolution
 
 10. Termination
 
-Subject to applicable law, we may suspend, revoke or cancel your Account privileges, your right to use the Card or deny any transaction, in our sole discretion at any time, with or without cause and with or without giving you notice.  Any termination of credit privileges, whether initiated by us or by you, will not affect any of our rights or your obligations under these Card Terms, including your obligation to repay any amounts you owe us according to the terms of these Card Terms. On our demand or upon termination of credit privileges, you agree to surrender to us or destroy the Card. If you attempt to use the Card after the termination of credit privileges (whether or not we have provided notice of such termination), the Card may be retained by a merchant, ATM or financial institution where you attempt to use the Card.
+Subject to applicable law, we may suspend, revoke or cancel your Account privileges, your right to use the Card or deny any transaction, in our sole discretion at any time, with or without cause and with or without giving you notice. Any termination of credit privileges, whether initiated by us or by you, will not affect any of our rights or your obligations under these Card Terms, including your obligation to repay any amounts you owe us according to the terms of these Card Terms. On our demand or upon termination of credit privileges, you agree to surrender to us or destroy the Card. If you attempt to use the Card after the termination of credit privileges (whether or not we have provided notice of such termination), the Card may be retained by a merchant, ATM or financial institution where you attempt to use the Card.
 
 11. Change of Terms
 
@@ -236,7 +240,7 @@ We may at any time and in our sole discretion delay or waive enforcing any of ou
 
 14. Communications and Call Recording.
 
-You authorize Bix.fi, Issuer and their partners (each of Issuer's affiliates, agents, assigns, and service providers (collectively, the "Messaging Parties") to use automatic telephone dialing systems, artificial or prerecorded voice message systems, text messaging systems and automated email systems, or any system capable of storing and dialing telephone numbers to deliver messages relating to these Card Terms, your Account, or your relationship with the Messaging Parties more generally (including but not limited to: messages about upcoming payment due dates, missed payments and returned payments) to any telephone number(s) you provide to the Messaging Parties. You also agree that these messages may deliver prerecorded and/or artificial voice messages. You understand that telephone messages may be played by a machine automatically when the telephone is answered, whether answered by you or someone else, and that these messages may also be recorded by your answering machine.  You also authorize the Messaging Parties to deliver messages to you via mail or email at any addresses you supply to them or that they obtain through any legal means.
+You authorize Bix.fi, Issuer and their partners (each of Issuer's affiliates, agents, assigns, and service providers (collectively, the "Messaging Parties") to use automatic telephone dialing systems, artificial or prerecorded voice message systems, text messaging systems and automated email systems, or any system capable of storing and dialing telephone numbers to deliver messages relating to these Card Terms, your Account, or your relationship with the Messaging Parties more generally (including but not limited to: messages about upcoming payment due dates, missed payments and returned payments) to any telephone number(s) you provide to the Messaging Parties. You also agree that these messages may deliver prerecorded and/or artificial voice messages. You understand that telephone messages may be played by a machine automatically when the telephone is answered, whether answered by you or someone else, and that these messages may also be recorded by your answering machine. You also authorize the Messaging Parties to deliver messages to you via mail or email at any addresses you supply to them or that they obtain through any legal means.
 
 By accepting these Card Terms or using your Card, you acknowledge that you have received, reviewed, and agree to be bound by the Issuer's E-Sign & Electronic Communications Notice (the "E-Sign Notice"), which is incorporated herein by reference. You consent to receive all disclosures, notices, agreements, and other communications from Issuer and the Messaging Parties in electronic form, in accordance with the E-Sign Notice. You agree that such electronic communications satisfy any legal requirement that such communications be in writing. The E-Sign Notice may be amended by Issuer from time to time, and your continued use of the Card after any such amendment constitutes your acceptance of the amended E-Sign Notice.
 
@@ -244,11 +248,11 @@ You understand that anyone with access to your mail, telephone or email account 
 
 This authorization is part of our bargain concerning these Card Terms, and we do not intend it to be revocable. However, to the extent you have the right to revoke your consent to communications by autodialed calls and text messages to your mobile number under applicable law, you may exercise this right by contacting the applicable Messaging Party directly or by sending a request by email to support@bix.fi with the subject line "END COMMUNICATIONS." You may opt-out of receiving most of these messages at any time by sending us a request to support@bix.fi or by responding "STOP" to any text message. To stop emails only, you can follow the opt-out instructions included at the bottom of the Messaging Parties' emails.
 
-15.	Governing Law
+15. Governing Law
 
 These Card Terms will be interpreted in accordance with the laws of Puerto Rico without regard to conflict-of-law provisions. Judicial proceedings (other than small claims actions) that are excluded from the Arbitration section below must be brought in state or federal court in Puerto Rico, unless we both agree in writing to some other location, and you hereby consent to the venue and personal jurisdiction of such court.
 
-16.	Dispute Resolution & Arbitration
+16. Dispute Resolution & Arbitration
 
 PLEASE READ THIS "DISPUTE RESOLUTION AND ARBITRATION" PROVISION VERY CAREFULLY. IT LIMITS YOUR RIGHTS IN THE EVENT OF A DISPUTE BETWEEN YOU AND ISSUER. BIX.FI IS THE TECHNOLOGY PROVIDER FOR THE CARD BUT IS NOT THE ISSUER, CREDITOR OR LENDER. BIX.FI IS NOT A PARTY TO THESE CARD TERMS AND HAS NO LIABILITY FOR THE ISSUER'S OBLIGATIONS UNDER IT. HOWEVER, BIX.FI IS AN EXPRESS THIRD-PARTY BENEFICIARY OF THESE CARD TERMS WITH RESPECT TO ANY PROVISIONS THAT ALLOCATE RISK, DISCLAIM LIABILITY, LIMIT REMEDIES OR REQUIRE DISPUTES TO BE RESOLVED THROUGH ARBITRATION. ACCORDINGLY, TO THE EXTENT A DISPUTE INVOLVES BIX.FI, BIX.FI SHALL BE ENTITLED TO INVOKE AND BENEFIT FROM THE SAME PROTECTIONS, LIMITATIONS AND DISPUTE RESOLUTION PROCEDURES AS THE ISSUER. TO THE EXTENT YOU HAVE ANY DISPUTE YOU MAY HAVE WITH BIX.FI RELATING SOLELY TO SERVICES PROVIDED TO YOU UNDER YOUR SEPARATE USER TERMS WITH BIX.FI, SUCH DISPUTES WILL BE GOVERNED EXCLUSIVELY IN ACCORDANCE WITH THE BIX.FI USER TERMS.
 
@@ -294,39 +298,52 @@ Confidentiality:
 
 The existence of all information regarding any Dispute will be held in strict confidence by the parties and will not be disclosed by either party except as reasonably necessary in connection with the conduct of the arbitration or the confirmation or enforcement of any arbitral award. Any such permitted disclosure will, to the maximum extent reasonably practicable, be made subject to obligations of confidentiality at least as stringent as the provisions of this paragraph. If any disclosure of information regarding any Dispute is required under applicable law, the parties shall reasonably cooperate with one another to obtain protective orders or otherwise to preserve the confidentiality of such information.
 
-17.	Survival
+17. Survival
 
 The following provisions of these Card Terms shall survive any termination or expiration of these Card Terms and shall remain in full force and effect until all of your obligations to us have been fully and finally satisfied: (a) all of your payment obligations and our right to collect all amounts owed by you; (b) all security interest, collateral, and setoff provisions, including our rights in any Collateral; (c) any indemnification obligations; (d) the limitation of liability provisions; (e) the disclaimer of warranties provisions; (f) the dispute resolution and arbitration provisions, including the class waiver; (g) our communications and contact rights; (h) our assignment rights; (k) any waiver provisions; (l) all representations and warranties made by you; (m) any accrued rights, remedies, or causes of action in favor of either party; and (n) any other provision that by its nature or express terms is intended to survive.
 
-18. 	Severability
+18. ```
+    Severability
+    ```
 
 If any provision of these Card Terms is found to be invalid, illegal, or unenforceable by a court or arbitrator of competent jurisdiction, such provision shall be modified to the minimum extent necessary to make it valid and enforceable while preserving its intent, or if such modification is not possible, such provision shall be severed from these Card Terms. The remaining provisions shall remain in full force and effect.
 
 Notwithstanding the foregoing paragraph, in the event that a court finds the prohibition of Collective Arbitration in Section 16 to be invalid or unenforceable, then all provisions in Section 16 shall be deemed void, except for any portion of any provision in Section 16 related to the resolution of Disputes through litigation in court.
 
-19. 	Assignment
+19. ```
+    Assignment
+    ```
 
 These Card Terms will be binding on, and benefit, any of your and our successors and assigns. You may not transfer your Account or your Agreement to someone else without our written permission. We may transfer your Account, these Card Terms, or any of our rights or obligations therein, to another company or person at any time, without your permission and without prior notice to you. If we do, they will take our place under these Card Terms. You must pay them and perform all of your obligations to them and not us. If you pay us after you are informed or learn that we have transferred your Account or this Agreement, we can handle your payment in any way we think is reasonable. This includes returning the payment to you or forwarding the payment to the other company or person.
 
-20. 	Entire Agreement
+20. ```
+    Entire Agreement
+    ```
 
 These Card Terms constitute the entire agreement between you and Issuer regarding the subject matter hereof and supersede all prior or contemporaneous agreements, understandings, representations, and communications whether written or oral, regarding such subject matter.
 
-21. 	Force Majeure
+21. ```
+    Force Majeure
+    ```
 
-We  shall not be liable for any delay or failure to perform any obligation under these Card Terms to the extent that such delay or failure is caused by circumstances beyond our reasonable control, including but not limited to acts of God, natural disasters, war, terrorism, civil unrest, labor disputes, government actions, epidemics or pandemics, internet or telecommunications failures, or failures of third-party service providers.
+We shall not be liable for any delay or failure to perform any obligation under these Card Terms to the extent that such delay or failure is caused by circumstances beyond our reasonable control, including but not limited to acts of God, natural disasters, war, terrorism, civil unrest, labor disputes, government actions, epidemics or pandemics, internet or telecommunications failures, or failures of third-party service providers.
 
-22. 	Disclaimer of Warranties
+22. ```
+    Disclaimer of Warranties
+    ```
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE EXPRESSLY DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, AND ANY WARRANTIES ARISING FROM COURSE OF DEALING OR USAGE OF TRADE.
 
-23. 	Limitation of Liability
+23. ```
+    Limitation of Liability
+    ```
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ISSUER, ITS AFFILIATES, OR ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SERVICE PROVIDERS, OR LICENSORS BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, PUNITIVE, OR OTHER SIMILAR DAMAGES, INCLUDING BUT NOT LIMITED TO LOST PROFITS, LOST REVENUE, LOST DATA, LOSS OF GOODWILL, BUSINESS INTERRUPTION, OR LOSS OF BUSINESS OPPORTUNITY, WHETHER ARISING IN CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE.
 
 IN NO EVENT SHALL ISSUER'S TOTAL LIABILITY TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR YOUR ACCOUNT EXCEED THE LESSER OF (A) YOUR ACTUAL DIRECT DAMAGES PROVEN OR (B) THE TOTAL AMOUNTS PAID BY YOU IN THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
 
-24. 	Indemnity
+24. ```
+    Indemnity
+    ```
 
 You will indemnify and defend Issuer, its affiliates, and its partners, directors, officers, employees, agents, trustees, administrators, managers, advisors, and representatives (each an "Indemnitee") against, and hold each Indemnitee harmless from, any and all claims, litigation, investigations, proceedings, losses, damages, fines, penalties, liabilities, settlements, costs, fees, and expenses incurred by any Indemnitee or asserted against any Indemnitee by any person arising out of, in connection with, related to, or as a result of your (i) breach of any of the representations, warranties, or covenants contained in these Card Terms; or (ii) gross negligence, fraud, or violation of any applicable law or rights of any third-party. Issuer may defend any claim subject to indemnification hereunder, using counsel of its choice, and you will pay or promptly reimburse Issuer for the reasonable fees of such counsel and all related costs and reasonable expenses. If you are a user from a jurisdiction that does not allow certain indemnification obligations, you agree that this indemnity is intended to be as broad as permitted under the laws of such jurisdiction.
-
