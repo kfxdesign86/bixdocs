@@ -21,12 +21,9 @@ Fees
 ```
       Foreign Purchases
 
-         - Foreign Exchange Fee (non USD): 3%
-
-         - Cross Border Fee: 3%
-         
-         - Small Payment Fee: 75 Cents per transaction under $35.00 USD
-         
+         - Transaction Fee: 3%
+         - Foreign Exchange Fee or XB (non USD): 1%
+         - Small Payment Fee: 75 Cents per transaction under $50.00 USD
          - Card Creation: $9.99 USD per virtual card created
 
        Penalty Fees
