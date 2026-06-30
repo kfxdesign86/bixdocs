@@ -17,20 +17,20 @@
 
 **FEES**
 
-|                             |                                            |
-| --------------------------- | ------------------------------------------ |
-| **Annual Fees**             | None                                       |
-| **Transaction Fees**        |                                            |
-| - Balance Transfer          | N/A                                        |
-| - Cash Advance              | None                                       |
-| - Transaction Fee           | 3% of each transaction in U.S. dollars.    |
-| - International Transaction | 1% of each transaction in U.S. dollars.    |
-| - Small Payment Fee         | 25 Cents per transaction under $15.00 USD  |
-| - Card Creation             | $9.99 USD per virtual card created         |
-| **Penalty Fees**            |                                            |
-| - Late Payment              | 2% of the current outstanding card balance |
-| - Over the Credit Line      | None                                       |
-| - Returned Payment          | None                                       |
+|                                  |                                           |
+| -------------------------------- | ----------------------------------------- |
+| **Annual Fees**                  | None                                      |
+| **Transaction Fees**             |                                           |
+| - Balance Transfer               | N/A                                       |
+| - Cash Advance                   | None                                      |
+| - Transaction Fee                | 3% of each transaction in U.S. dollars.   |
+| - International Transaction (FX) | 1% of each transaction in U.S. dollars.   |
+| - Small Payment Fee              | 75 Cents per transaction under $50.00 USD |
+| - Card Creation                  | $9.99 USD per virtual card created        |
+| **Penalty Fees**                 |                                           |
+| - Late Payment                   | None                                      |
+| - Over the Credit Line           | None                                      |
+| - Returned Payment               | None                                      |
 
 VIP Membership: The VIP Tier is an optional premium membership available for a recurring fee of $9.99 per month. VIP members receive enhanced benefits, including reduced fees, priority support, and exclusive rewards, as described on the BIX platform. The VIP fee is non-refundable and will be automatically charged to your account on a monthly billing cycle until cancelled.
 
