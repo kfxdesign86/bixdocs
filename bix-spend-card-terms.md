@@ -47,7 +47,7 @@ Bix.fi has opened a Bix.fi Account for purposes of facilitating transactions you
 
 Issuer:
 
-The card program is issued by the Issuer under license from Visa. The information about the cost of the Card described in the above table is accurate as of March 7, 2026. This information may change after that date. To find out what may have changed, call or write the servicer, at support@bix.fi and +1 (787) 500-0199.
+The card program is issued by the Issuer under license from Visa. The information about the cost of the Card described in the above table is accurate as of March 7, 2026. This information may change after that date. To find out what may have changed, call or write the servicer, at support@bix.fi&#x20;
 
 Issuer reserves the right to amend these Card Terms or impose additional obligations or restrictions on you at any time with or without notice to you. By continuing to use the Services, you agree to be bound by such amendments or additional obligations or restrictions. The date on the top of this page shows when the Card Terms were last updated. Capitalized terms that are not defined here have the definitions provided in the User Agreement.
 
@@ -195,7 +195,7 @@ Bix.fi, Issuer, Card Networks, or other intermediary third-party service provide
 
 8.3 Lost or Stolen Cards.
 
-If your Card is lost or stolen or if you think someone may be using your Card or Account without your permission, you must notify us promptly by emailing us at support@bix.fi or calling us at +1 (787) 500-0199. You will not be liable for any unauthorized use that occurs after you notify us. You may, however, be liable for unauthorized use that occurs before receipt of your notice by us. You have an obligation to assist us in our investigation if your Bix.fi Card is lost or stolen or you believe someone is using your Bix.fi Card or your Bix.fi Account without your permission.
+If your Card is lost or stolen or if you think someone may be using your Card or Account without your permission, you must notify us promptly by emailing us at support@bix.fi . You will not be liable for any unauthorized use that occurs after you notify us. You may, however, be liable for unauthorized use that occurs before receipt of your notice by us. You have an obligation to assist us in our investigation if your Bix.fi Card is lost or stolen or you believe someone is using your Bix.fi Card or your Bix.fi Account without your permission.
 
 9. Chargebacks
 
