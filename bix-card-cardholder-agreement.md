@@ -17,26 +17,27 @@
 
 **FEES**
 
-|                                  |                                           |
-| -------------------------------- | ----------------------------------------- |
-| **Annual Fees**                  | None                                      |
-| **Transaction Fees**             |                                           |
-| - Balance Transfer               | N/A                                       |
-| - Cash Advance                   | None                                      |
-| - Transaction Fee                | 3% of each transaction in U.S. dollars.   |
-| - International Transaction (FX) | 1% of each transaction in U.S. dollars.   |
-| - Small Payment Fee              | 75 Cents per transaction under $50.00 USD |
-| - Card Creation                  | $9.99 USD per virtual card created        |
-| **Penalty Fees**                 |                                           |
-| - Late Payment                   | None                                      |
-| - Over the Credit Line           | None                                      |
-| - Returned Payment               | None                                      |
+|                                  |                                         |
+| -------------------------------- | --------------------------------------- |
+| **Annual Fees**                  | None                                    |
+| **Transaction Fees**             |                                         |
+| - Balance Transfer               | N/A                                     |
+| - Cash Advance                   | None                                    |
+| - Transaction Fee                | 3% of each transaction in U.S. dollars. |
+| - International Transaction (FX) | 1% of each transaction in U.S. dollars. |
+| - Card Creation                  | $9.99 USD per virtual card created      |
+| **Penalty Fees**                 |                                         |
+| - Late Payment                   | None                                    |
+| - Over the Credit Line           | None                                    |
+| - Returned Payment               | None                                    |
 
 VIP Membership: The VIP Tier is an optional premium membership available for a recurring fee of $9.99 per month. VIP members receive enhanced benefits, including reduced fees, priority support, and exclusive rewards, as described on the BIX platform. The VIP fee is non-refundable and will be automatically charged to your account on a monthly billing cycle until cancelled.
 
 How We Will Calculate Your Balance: We use a method called "average daily balance". See your Cardholder Agreement for more details.
 
 Billing Rights: Information on your rights to dispute transactions and how to exercise those rights is provided in your Card Regulations.
+
+Depending certain circumstances there may be a small item items fee applied to certain transactions. Transactions under $50.00 usd, will be subject to an additional 75 cent fee.
 
 Military Lending Act Disclosure: The following disclosure applies to persons covered by the Military Lending Act - other governmental programs and laws may also govern or apply to this transaction but are not described in the following disclosure. The following disclosure is required by the Military Lending Act. Federal law provides important protections to members of the Armed Forces and their dependents relating to extensions of consumer credit. In general, the cost of consumer credit to a member of the Armed Forces and his or her dependent may not exceed an annual percentage rate of 36 percent. This rate must include, as applicable to the credit transaction or account: the costs associated with credit insurance premiums; fees for ancillary products sold in connection with the credit transaction; any application fee charged (other than certain application fees for specified credit transactions or accounts); and any participation fee charged (other than certain participation fees for a credit card account). 9.The Arbitration and Class Waiver sections of your Agreement will not apply to you if you are covered by the Military Lending Act nor do any provisions of the Agreement that waive any right to legal recourse under any state or federal law to the extent required by the Military Lending Act.
 
@@ -55,6 +56,8 @@ The term "Card" means any card we issue associated with your Account, including 
 The term "Issuer" refers to Third National, including its affiliates, successors, and assigns. The term "Supported Blockchain" means the Ethereum Blockchain, Polygon Blockchain, Optimism Blockchain, Arbitrum Blockchain and other blockchain networks. We may update this list of Supported Blockchains at any time and at our sole discretion.
 
 The terms "you" and "your" mean each and all of the persons who are granted, accept or use the Account and any person who has guaranteed payment of the Account.
+
+
 
 ### Overview of Account Agreement
 
